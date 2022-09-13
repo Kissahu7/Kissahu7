@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kishan sahu
-- 👀 I’m interested in backend and game 
+- 👀 I’m interested in backend and game development
 - 🌱 I’m currently working as a Software Engineer
 - 📫 kishansahu3128@gmail.com
 

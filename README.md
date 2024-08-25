@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kishan sahu
-- 👀 I’m interested in IT
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently working as a Software Engineer
 - 📫 kishansahu.se@gmail.com
 
